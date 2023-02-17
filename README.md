@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 --!>
 Hola soy Jose,
 
--Estudio DAW en el IES El Caminás en Castellón de la Plana.
+-Estudio DAW en el IES El Caminás en Castellón de la Plana. <br/>
 -Tengo el título de Técnico en Sistemas Microinformaticos y Redes.
 -Me gusta mucho el desarrollo web.
 -Y tambien me gusta trabajar en equipo para lograr mis objetivos.
