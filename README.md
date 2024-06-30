@@ -1,14 +1,14 @@
-### Hola! 👋
+### Hola soy Jose! 👋
 
 <!--
 **JoseMasiaTormo/JoseMasiaTormo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
---!>
-Hola soy Jose,<br/>
+-->
 
--Estudio DAW en el IES El Caminás en Castellón de la Plana. <br/>
--Tengo el título de Técnico en Sistemas Microinformaticos y Redes.<br/>
--Me gusta mucho el desarrollo web.<br/>
--Y tambien me gusta trabajar en equipo para lograr mis objetivos.
+- 📚​ Web Developer con experiencia en React.js entre otros. <br/>
+- 🤖​ Intención de cursar Inteligencia Artificial y BigData. <br/>
+- 💻​ Técnico en Sistemas Microinformaticos y Redes.<br/>
+- ⌨️​ Disfruto con el desarrollo web.<br/>
+- ✉️​ Puedes contactarme en el siguiente correo: [josemasia2004@gmail.com](mailto:josemasia2004@gmail.com).
