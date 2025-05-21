@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 📚​ Web Developer con experiencia en React.js entre otros. <br/>
-- 🤖​ Cursando Inteligencia Artificial y BigData. <br/>
+- 📚​ Full-Stack Developer con experiencia en un entorno de prácticas usando React.js. <br/>
+- 🤖​ Master en Inteligencia Artificial y BigData. <br/>
 - 💻​ Técnico en Sistemas Microinformaticos y Redes.<br/>
 - ⌨️​ Disfruto con el desarrollo web.<br/>
 - ✉️​ Puedes contactarme en el siguiente correo: [josemasia2004@gmail.com](mailto:josemasia2004@gmail.com).
